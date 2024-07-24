@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "apisauce": "^3.0.1",
     "expo": "~51.0.22",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.3",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-picker-select": "^9.1.3",
+    "react-native-svg": "^15.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
