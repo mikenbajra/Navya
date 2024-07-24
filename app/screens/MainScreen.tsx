@@ -21,7 +21,7 @@ function MainScreen() {
     setSelectedValue(value);
     const dates1: string[] = [];
 
-    //Extract 5 objects from the array
+    //Extract 5 objects from the array.
     const entries = Object.entries(response.data["Weekly Adjusted Time Series"]).slice(
       0,
       5
